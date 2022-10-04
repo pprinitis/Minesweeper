@@ -1,2 +1,2 @@
 # Minesweeper
-Basic Minesweeper game made using tkinter
+Basic Minesweeper game made using tkinter (python) 
